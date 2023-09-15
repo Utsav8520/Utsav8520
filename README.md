@@ -7,7 +7,7 @@ Utsav8520/Utsav8520 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Utshav Satyal</h1>
-<h3 align="center">A passionate frontend developer from Nepalh3>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav8520&label=Profile%20views&color=0e75b6&style=flat" alt="utsav8520" /> </p>
 
