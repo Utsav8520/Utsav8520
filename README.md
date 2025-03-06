@@ -1,4 +1,4 @@
-![logo](https://github.com/Nishan-Pradhan06/Nishan-Pradhan06/blob/main/banner.png)
+![logo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Utshav+Satyal!">
@@ -9,10 +9,10 @@
 
 <!-- <h3 align="center">A passionate WEB/APP developer from Nepal.</h3> -->
 
-<img align="right" alt="coding" width="400" src="https://github.com/Nishan-Pradhan06/Nishan-Pradhan06/blob/main/github.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishan-pradhan06&label=Profile%20views&color=0e75b6&style=flat" alt="nishan-pradhan06" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django.**
 
 - 👨‍💻 All of my projects are available at
 - 📫 How to reach me **satyalutsav777@gmail.com**
@@ -42,9 +42,14 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsav8520&show_icons=true&locale=en&layout=compact" alt="utsav8520" /></p>
+<div style="display: flex; align-items: center; justify-content: center;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsav8520&show_icons=true&locale=en" alt="utsav8520" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav8520&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav8520&" alt="utsav8520" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Utsav8520&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+
+</div>
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Utsav8520&theme=dracula" alt="GitHub Streak" /></a>
 
